@@ -1,2 +1,2 @@
-# SQL-Server-internal-structures
+# SQL Server internal structures
 Dumping SQL Server internal structures.
